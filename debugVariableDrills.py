@@ -22,17 +22,18 @@ START HERE
 
 #1)
 #Broken:
-#name == "your name"
+#name == "Jadynn"
 #print(name)
 #Correct:
-name="your name"
+name = "Jadynn"
 print(name)
+
 #2)
 #Broken:
-#x = "your name
+#x = "Jadynn"
 #print(x)
 #Correct:
-x="your name"
+x= "Jadynn"
 print(x)
 #3)
 #Broken:
@@ -48,7 +49,8 @@ print(yay)
 #y == 4
 #print(y)
 #Correct:
-
+y=4
+print(y)
 #5)
 #Broken:
 #m == 5
@@ -56,7 +58,6 @@ print(yay)
 #Correct:
 m=5
 print(m)
-
 '''
 For the next section, there will be a variable create correctly. Your job will
 be to write what kind of variable it is.
@@ -71,44 +72,44 @@ END OF EXAMPLE
 '''
 
 '''
-8START HERE
+START HERE
 '''
 #1)
 #x = 1.01
-#ANSWER:
+#ANSWER: float
 
 #2)
 #y = 2
-#ANSWER:
+#ANSWER:integer
 
 #3)
 #a = True
-#ANSWER:
+#ANSWER: boolean
 
 #4)
 #b = 1
-#ANSWER:
+#ANSWER: integer
 
 #5)
 #c = "string"
-#ANSWER:
+#ANSWER: string
 
 #6)
 #d = False
-#ANSWER:
+#ANSWER: boolean
 
 #7)
 #e = ["a", "b", "c"]
-#/ANSWER:
+#ANSWER:listString
 
 #8)
 #f = [1, 2, 3]
-#ANSWER:
+#ANSWER: listInt
 
 #9)
 #g = "nope"
-#ANSWER:
+#ANSWER: string
 
 #10)
 #h = 1.24
-#ANSWER:
+#ANSWER: float
